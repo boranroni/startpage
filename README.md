@@ -1,12 +1,16 @@
-# Startpage
+Startpage
+========
 
-[Live Preview](https://kencx.github.io/startpage/)
+### Live Demo: <a href="http://boranroni.github.io/startpage/">Demo</a>
 
-Feel free to fork and make your own changes!
+### Default Home
+<img src="home.jpg" alt="Home" width="100%"/>
 
-- Font: Fira Code
-- Colorscheme: Gruvbox Dark
-- Cat Gif: [Here](https://twitter.com/avogado6/status/1165595520967954432?s=19)
+### Preview
+<img src="home.gif" alt="Preview" width="100%"/>
 
-![startpage](startpage.gif)
+This is a fork of kencx's [startpage](https://github.com/kencx/startpage) with a image scroll option.
 
+## Credits
+Images used in the sidebar are by background artist [Waneella](https://twitter.com/waneella_).
+Image scroll is from mtwb47's [startpage](https://github.com/mtwb47/mtwb47.github.io).
